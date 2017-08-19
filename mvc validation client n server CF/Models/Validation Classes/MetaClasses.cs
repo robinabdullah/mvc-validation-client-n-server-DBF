@@ -10,7 +10,7 @@ namespace mvc_validation_client_n_server_CF.Models
     {
         [Required, DataType(DataType.Text), StringLength(20, ErrorMessage = "Length must be less than 20")]
         public string Name { get; set; }
-        [Required]
+        [Required, Range(1,6)]
         public int Credit { get; set; }
     }
     public class StudentMetaData
