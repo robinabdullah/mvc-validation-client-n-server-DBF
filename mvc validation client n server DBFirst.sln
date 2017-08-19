@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc validation client n server CF", "mvc validation client n server CF\mvc validation client n server CF.csproj", "{D2EE9240-B22C-4D53-B67A-03FD71B65975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc validation client n server DBF", "mvc validation client n server CF\mvc validation client n server DBF.csproj", "{D2EE9240-B22C-4D53-B67A-03FD71B65975}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
